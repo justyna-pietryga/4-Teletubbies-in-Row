@@ -1,0 +1,21 @@
+Instrukcja gry "4 Teletubbies in Ro£":
+
+1. Graj mondrze i z g³ow¹, gdy¿ nieu¿ywany narz¹d zanika
+2. Aby wrzuciæ kulkê do planszy kliknij przycisk nad odpowiedni¹ kolumn¹
+3. Gracze graj¹ na przemian
+4. Dostêpne s¹ trzy warianty gry: 
+-£atwy (aby wygraæ gracz musi ustawiæ 4 kulki swojego koloru w 
+jednym rzêdzie tylko poziomo albo pionowo)
+-Normalny (aby wygraæ gracz musi ustawiæ 4 kulki swojego koloru
+w jednym rzêdzie poziomio, pionowo b¹dŸ na ukos)
+-5 w rzêdzie (obowi¹zuj¹ wszystkie zasady z wariantu normalnego, 
+ale  wygrana nastêpuje po ustawieniu w rzêdzie 5 kulek)
+5. Po zmianie wariantu z listy wybieralnej poni¿ej planszy nastêpuje
+RESTART GRY!!!
+6. Domyœlnie przy starcie gry ustawiony jest wariant normalny
+7. Jeœli akceptujesz regulamin z wszystkimi jego konsekwencjami oraz
+chcesz rozpocz¹æ grê, kliknij OK. 
+Jeœli nie, wy³¹cz grê natychmiast albo zamilknij na wieki
+
+Powodzenia :)
+
